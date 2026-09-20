@@ -46,3 +46,7 @@ Novos certificados devem ser adicionados como novas linhas na tabela de `certifi
 ## Publicação
 
 O projeto pode ser hospedado em qualquer serviço compatível com arquivos estáticos, como GitHub Pages, Netlify, Vercel ou um servidor web tradicional. Basta publicar os arquivos mantendo a estrutura de pastas.
+
+## Obsrvação
+
+A idealização do projeto foi iniciada com o curso da Geek University, na plataforma da Udemy, onde pude aprimorar meus conhecimentos em Git e GitHub, HTML, CSS, JavaScript e VibeCoding.
