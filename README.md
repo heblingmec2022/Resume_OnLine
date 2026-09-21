@@ -1,6 +1,6 @@
 # CV Online
 
-Site pessoal e portfólio profissional de Pablo Hebling Guimarães, com foco em Dados, Business Intelligence, análise de negócios e experiências em projetos de tecnologia.
+Meu site pessoal e portfólio profissional, com foco em Dados, Business Intelligence, análise de negócios e experiências em projetos de tecnologia.
 
 ## Conteúdo
 
@@ -47,6 +47,6 @@ Novos certificados devem ser adicionados como novas linhas na tabela de `certifi
 
 O projeto pode ser hospedado em qualquer serviço compatível com arquivos estáticos, como GitHub Pages, Netlify, Vercel ou um servidor web tradicional. Basta publicar os arquivos mantendo a estrutura de pastas.
 
-## Obsrvação
+## Observação
 
 A idealização do projeto foi iniciada com o curso da Geek University, na plataforma da Udemy, onde pude aprimorar meus conhecimentos em Git e GitHub, HTML, CSS, JavaScript e VibeCoding.
